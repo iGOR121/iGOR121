@@ -8,8 +8,14 @@ How to reach me: telegram (@id1otina)
 - 😄 Pronouns: ...
 -->
 I’m currently working on huawei anne R
+
 I’m currently learning git
+
 I’m looking to collaborate on making buildable kernel for xiaomi toco
+
 I’m looking for help with git
+
 How to reach me: telegram (@id1otina)
+
 Fun fact: i don't know how to git
+
