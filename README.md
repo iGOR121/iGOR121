@@ -7,10 +7,13 @@ i'm trying to dev (no i am not :(  )
 - 😄 Pronouns: ...
 -->
 I’m currently working on my lineage-15.1 for peach
+
 I’m currently learning to dev 
 <!-- I’m looking to collaborate on making buildable kernel for xiaomi toco
 -->
 I’m looking for help with my developments
+
 How to reach me: telegram (@id1otina)
+
 Fun fact: i know how to git
 
