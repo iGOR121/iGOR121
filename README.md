@@ -6,7 +6,7 @@ i'm trying to dev (no i am not :(  )
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-I’m currently working on my lineage-15.1 for peach
+I’m currently working on nothing (pissed off because of project fluid)
 
 I’m currently learning to dev 
 <!-- I’m looking to collaborate on making buildable kernel for xiaomi toco
