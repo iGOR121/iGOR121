@@ -6,7 +6,7 @@ i'm trying to dev
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-I’m currently working on hi6250
+I’m currently working on random things
 
 I’m currently learning android dev
 <!-- I’m looking to collaborate on making buildable kernel for xiaomi toco
