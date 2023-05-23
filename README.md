@@ -15,5 +15,7 @@ I’m looking for help with my developments
 
 How to reach me: telegram (@id1otina)
 
+2023 UPD: ALL I DO IS PROCRASTINATE.
+
 Fun fact: pm me for a free meme
 
